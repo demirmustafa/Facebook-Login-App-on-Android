@@ -11,6 +11,7 @@
         android:theme="@style/AppTheme" >
 
         <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/app_id"/>
+        <!-- app_id is your app's facebook id -->
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name" >
